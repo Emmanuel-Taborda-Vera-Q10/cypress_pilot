@@ -1,0 +1,19 @@
+{
+  "name": "cypress_pilot",
+  "version": "1.0.0",
+  "description": "This is a cypress pilot automation to q10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuel-Taborda-Vera-Q10/cypress_pilot.git"
+  },
+  "author": "Emmanuel Taborda Vera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmanuel-Taborda-Vera-Q10/cypress_pilot/issues"
+  },
+  "homepage": "https://github.com/Emmanuel-Taborda-Vera-Q10/cypress_pilot#readme"
+}
